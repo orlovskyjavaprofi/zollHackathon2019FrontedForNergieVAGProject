@@ -1,4 +1,4 @@
-﻿# zollHackathon2019FrontedForNergieVAGProject
+﻿# zollhofHackathon2019FrontedForNergieVAGProject
 This repo consist my very rough prototype  , which i have created during hackathon at Zollhoff Nürnberg
 during hackathon 4-5 june 2019.
 to use this project you need 2 things
